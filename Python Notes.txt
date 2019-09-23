@@ -1,0 +1,58 @@
+- Python Notes - CASE SENSITIVE!!!!
+
+- # - Used to write a comment that isnt run by the code. Ex. "# This is a comment"
+
+- print() - Used to tell the computer to talk. when ran will show the text on screen. Known as Output. Ex. Print("This will show on screen when ran.")
+
+- strings - Blocks of text surrounded by either double quotes "" or single quotes ''.
+
+- = - Stores a value in the variable used before it with the value used after it. Ex. Dinner = "Chicken and Rice"
+
+- SyntaxError - means there is something wrong with the way your program is written — punctuation that does not belong, a command where it is not expected, or a missing parenthesis can all trigger a SyntaxError.
+
+- A NameError - occurs when the Python interpreter sees a word it does not recognize. Code that contains something that looks like a variable but was never defined will throw a NameError.
+
+- Literal - meaning it’s actually what is is and not a variable with a value assigned to it. 3 is number 3 and not a variable with the number 3 assigned to it.
+
+- + - Addition. Ex. print(2+2)
+
+- - - Subtraction. Ex. print(2-2)
+
+- * - Multiplication. Ex. print(2*2)
+
+- / - Division. Ex. print(2/2)
+
+- ** - Exponentials. print(6 ** 3) is the same as print(6 * 6 * 6)
+
+- % - Gives the remainder of a division problem. Ex. print(10 % 3) will output 1.
+
+- def -Ex. def loading_screen():
+             print("This is the loading screen...")
+
+           loading_screen()                         everytime "loading_screen()" is called it will run what was written under the defined variable as long as there is indention. indention break will end the defining moment.
+
+- parameter - is whats inside the def perenthesies. def a(PARAMETERS):
+
+!!! CMD !!!!
+
+- Directories - folders
+
+- ls command - list the the directories and files in the folder you are in
+
+- root directory - The first directory in the filesystem. Ex. folder Blog, containig a folder 2014. blog is the parent and 2014 is the child
+
+- pwd(print working directory) - It outputs the name of the directory you are currently in, called the working directory.
+
+- cd(change directory) - switches you into the directory you specify. In other words, cd changes the working directory.
+
+- argument - When a file, directory or program is passed into a command. in cd 2015, 2015 is the argument.
+
+- mkdir(make directory) - It takes in a directory name as an argument, and then creates a new directory in the current working directory.
+
+- touch -  creates a new file inside the working directory. It takes in a filename as an argument, and then creates an empty file in the current working directory.
+
+- filesystem - organizes a computers files and directories into a tree structure
+
+- echo + >> - (no actually pluss sign) adds a direct or file and adds into it whatever you type after >>.
+
+- cat - prints the contents of a file
